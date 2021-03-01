@@ -145,6 +145,10 @@ spinbutton.clocks-timer-label button {
 	color: #428be5;
 }
 
+.timer-countdown.timer-ringing {
+	color: #ff5e00;
+}
+
 /* Stopwatch Panel */
 .lap-time {
 	font-weight: bold;

@@ -64,7 +64,7 @@ else
   profile = ''
 endif
 
-app_id = 'org.gnome.clocks@0@'.format(profile)
+app_id = 'org.gnome.clocks2@0@'.format(profile)
 
 conf = configuration_data()
 conf.set_quoted('APP_ID', app_id)
